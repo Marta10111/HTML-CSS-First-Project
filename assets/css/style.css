@@ -1,12 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@300&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@300&display=swap')
 *{
     margin: 0;
     padding: 0;
     border: none;
 }
 body {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:  Arial, sans-serif;
 }
 
 h1,h2{
@@ -51,7 +50,7 @@ h1,h2{
 }
 
 #mind-outer {
-    height: 500px;
+    height: 400px;
     width: 100%;
     overflow: hidden;
     position: relative;
@@ -62,8 +61,35 @@ h1,h2{
 }
 
 #mind-image {
-    height: 600px;
+    height: 400px;
     width: 100%;
-    background: url('../images/istockphoto-1255236230-612x612.jpg') center center / cover no-repeat fixed ;
+    background: url('../images/pexels-photo-235990.webp') center 90% / cover no-repeat ;
+
+    
+    animation-name: mind-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
     }
+
+ @keyframes mind-zoom {
+    from {transform: scale(1);}
+    to {transform: scale(1.1);}
+ }
+
+ #picture-text {
+    font-size: 150%;
+    font-family: Prompt, sans-serif;
+    text-transform: capitalize; 
+    letter-spacing: 3px;
+    width: 700px;
+    height: 200px;
+    background-color: none;
+    bottom: 80px;
+    left: 60px;
+    position:absolute;
+    text-align: center;
+    font-style: italic;
+}
+
+
 
