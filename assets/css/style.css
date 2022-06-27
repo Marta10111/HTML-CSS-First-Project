@@ -50,3 +50,20 @@ h1,h2{
     color:red;
 }
 
+#mind-outer {
+    height: 500px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#picture-text, #picture-text h2 {
+    color: black;
+}
+
+#mind-image {
+    height: 600px;
+    width: 100%;
+    background: url('../images/istockphoto-1255236230-612x612.jpg') center center / cover no-repeat fixed ;
+    }
+
