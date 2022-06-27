@@ -6,6 +6,7 @@
 }
 body {
     font-family:  Arial, sans-serif;
+    background-color: #b3e5fc;
 }
 
 h1,h2{
@@ -95,4 +96,46 @@ h1,h2{
     float: left;
 }
 
-#welcome {float: right;}
+#welcome {
+    height: 800px;}
+
+#left-one-heading {
+    padding-top: 30px;
+    width: 30%;
+    float: left;
+    margin-left: 80px;
+    margin-top: 100px;
+
+
+}
+
+#right-one-paragraph  {
+    padding-top: 20px;
+    width: 60%;
+    float: right;
+    margin-top: 15px;
+    margin-right: 50px;
+}
+
+#right-one-paragraph p {
+    font-size: 20px;
+    font-weight: ;
+}
+
+.circle {
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 1px;
+    border-radius: 50%;
+    margin-left: 0;
+}
+
+.circle-picture-bg {
+    background: url('../images/pexels-photo-6899550.webp') no-repeat center center;
+   
+    height: 100%;
+    border-radius: 50%;
+}
