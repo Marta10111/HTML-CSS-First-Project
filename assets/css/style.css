@@ -164,8 +164,21 @@ h1,h2{
     width: 20%;
     height: 300px;
     float: left;
-  
     text-align: center;
     margin-left: 10%;
-
+    padding: 30px 0 0 10px;
 }
+
+
+    footer {
+        background-color: #1560bd;
+        padding: 1em;
+        text-align: center;
+        width: 100%;
+        position: fixed;
+        bottom: 0;
+        right: 0;
+        z-index: 3;
+    }
+    
+   
