@@ -15,6 +15,13 @@ h1,h2{
     letter-spacing: 1px;
     color: #1d045f;
 }
+ #left-one-heading img{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+     
+}
+
 #logo {
     float: left;
     font-size: 230%;
@@ -122,20 +129,11 @@ h1,h2{
     font-weight: ;
 }
 
-.circle {
-    width: 200px;
-    height: 200px;
-    padding: 10px;
-    border-style: solid;
-    border-color: #ccc;
-    border-width: 1px;
-    border-radius: 50%;
-    margin-left: 0;
+#services {
+    background: url('../images/pexels-photo-5490778.webp') no-repeat center;
+    width: 100%;
+    overflow: hidden;
+    margin-top: -200px;
+   
 }
 
-.circle-picture-bg {
-    background: url('../images/pexels-photo-6899550.webp') no-repeat center center;
-   
-    height: 100%;
-    border-radius: 50%;
-}
