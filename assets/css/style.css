@@ -137,7 +137,7 @@ h1,h2,h3{
     width: 100%;
     overflow: hidden;
     margin-top: -300px;
-    
+    padding-bottom: 50px;
 }
 
 #services h2 {
@@ -147,19 +147,41 @@ h1,h2,h3{
 
 #services div {
     color: #black;
-    background-color: rgba(0, 0, 0, .4);
-    width: 30%;
-    height: 300px;
-    float: left;
-    padding: 10px 0 0 20px;
-    text-align: center;
-    border: 2px solid grey;
-    box-sizing: border-box;
-    margin-left: 30px
+    
 
+    
+    
+    width: 30%;
+    height: 350px;
+    float: left;
+    padding: 10px 0 0 40px;
+    text-align: center;
+   
 }
 
 #services h4 {
     font-size: large;
 }
 
+/*footer*/
+
+footer {
+  
+  height: 130px;
+}
+
+ .social-network{
+    text-align: center;
+ }   
+ .social-network > li {
+    display: inline;
+}
+.social-network i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 4%;
+    color: #1d045f;
+}
+
+
+    
