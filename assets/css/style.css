@@ -142,8 +142,9 @@ h1,h2,h3{
 
 #services h2 {
     text-align: center;
-    font-size: x-large;
+    font-size: 26px;
     padding-top: 20px;
+    font-weight: bold;
 }
 
 #services div {
@@ -153,11 +154,14 @@ h1,h2,h3{
     float: left;
     padding: 10px 20px 10px 20px;
     text-align: center;
-   
+}
+
+#services h3 {
+   font-size: 20px;
 }
 
 #services h4 {
-    font-size: large;
+    font-size: 18px;
 }
 
 /*footer*/
@@ -184,8 +188,9 @@ footer {
 
 #contact h2 {
     text-align: center;
-    font-size: x-large;
-    padding-top: 20px;
+    font-size: 26px;
+    padding-top: 40px;
+    font-weight: bold;
 }
 
 #contact div {
@@ -196,6 +201,10 @@ footer {
     padding: 10px 20px 10px 20px;
     text-align: center;
    
+}
+
+#contact h3 {
+   font-size: 20px; 
 }
 
 #contact h4 {
