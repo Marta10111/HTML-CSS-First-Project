@@ -256,4 +256,16 @@ footer {
     
 }
 
+/*thank you page*/
+
+.thank-you {
+    background: url(../images/129603.webp);
+    background-size: cover;
+    background-position: center;
+    height: 950px;
+    
+}
+
+
+
 
