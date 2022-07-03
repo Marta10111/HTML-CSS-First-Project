@@ -257,15 +257,32 @@ footer {
 }
 
 /*thank you page*/
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
 
-.thank-you {
+.zen {
     background: url(../images/129603.webp);
     background-size: cover;
     background-position: center;
     height: 950px;
-    
 }
 
+#thank-you {
+   text-align: center;
+   padding-right: 450px;
+   padding-top: 250px;
+}
+#thank-you h1 {
+    font-weight: 600;
+    font-size: 100px;
+    padding-bottom: 30px;
+}
+#thank-you  {
+    line-height: 40px;
+}
 
 
 
