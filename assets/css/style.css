@@ -327,4 +327,104 @@ footer {
 }
 
 
+#massage-pc h2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: xx-large;
+    padding-left: 250px;
+}
+
+th, td {
+    border-bottom: 1px solid black;
+    text-align: left;
+    padding: 25px;
+}
+
+th {
+    background-color: #016ABC;
+    color: azure;
+    font-size: 25px;
+   
+}
+
+#table1 {
+    border-collapse: collapse;
+}
+
+
+#i1 {
+    float: right;
+    padding-right: 25px;
+}
+
+#nails-pc h2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: xx-large;
+    padding-right: 250px;
+    float: right;
+}
+
+th, td {
+    border-bottom: 1px solid black;
+    text-align: left;
+    padding: 25px;
+}
+
+th {
+    background-color: #016ABC;
+    color: azure;
+    font-size: 25px;
+   
+}
+
+#table2 {
+    border-collapse: collapse;
+   
+}
+
+
+#i2 {
+    float: left;
+    padding-left: 25px;
+    padding-top: 0px ;
+    padding-right: 180px;
+}
+
+#beauty-pc h2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: xx-large;
+    padding-right: 250px;
+    float: left;
+}
+
+th, td {
+    border-bottom: 1px solid black;
+    text-align: left;
+    padding: 25px;
+}
+
+th {
+    background-color: #016ABC;
+    color: azure;
+    font-size: 25px;
+   
+}
+
+#table3 {
+    border-collapse: collapse;
+   
+   
+}
+
+
+#i3 {
+    float: right;
+    padding-left: 0px;
+    padding-top: 0px ;
+    padding-right: 25px;
+    padding-top: 75px;
+}
+
 
