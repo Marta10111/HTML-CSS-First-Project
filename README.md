@@ -64,8 +64,14 @@ The GAIA   Mobile Massage and Beauty is a page for anyone who is looking for a m
 **Validator Testing**
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/#validate_by_input)
+
+  ![W3S validator](https://user-images.githubusercontent.com/106401395/178561975-d29dd962-0132-4bf8-b7cb-05f9e75f15df.jpg)
+
 - CSS
   - No errors were found when passing through the official [Jigsaw validator](https://jigsaw.w3.org/css-validator/#validate_by_uri)
+
+  ![Jigsaw validator](https://user-images.githubusercontent.com/106401395/178562104-2cb649e0-d3ed-4b72-ae46-e5a8e13a73a8.png)
+  
 - Accessibility
   - I confirmed that the colors and fonts chosen are easy to read and accesible by running it through lighthouse in devtools.
   
