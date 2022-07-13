@@ -76,21 +76,21 @@ h3 {
     position: relative;
 }
 
-/* #picture-text, #picture-text h2 {
+#picture-text, #picture-text h2 {
     color: black;
-} */
+} 
 
 #mind-image {
-    /* height: 400px;
+    height: 400px;
     width: 100%;
-    background: url('../images/pexels-photo-235990.webp') center 90% / cover no-repeat ; */
+    background: url('../images/pexels-photo-235990.webp') center 90% / cover no-repeat ; 
 
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/pexels-photo-235990.webp');
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    /* position: relative; */
+     position: relative; 
 
     animation-name: mind-zoom;
     animation-duration: 5s;
@@ -118,13 +118,6 @@ h3 {
     font-family: Prompt, sans-serif;
     text-transform: capitalize;
     letter-spacing: 3px;
-    /* width: 700px; */
-    /* height: 200px; */
-    background: none;
-    /* bottom: 80px; */
-    /* left: 60px; */
-    /* position:absolute; */
-    /* text-align: center; */
     font-style: italic;
 }
 
@@ -364,6 +357,7 @@ footer {
     line-height: 40px;
 }
 
+/*prices page*/
 
 #massage-pc h2 {
     padding-top: 20px;
@@ -390,18 +384,11 @@ th {
     border-collapse: collapse;
 }
 
-
-#i1 {
-    float: right;
-    padding-right: 25px;
-}
-
 #nails-pc h2 {
     padding-top: 20px;
     padding-bottom: 20px;
     font-size: xx-large;
-    padding-right: 250px;
-    float: right;
+    padding-left: 250px;
 }
 
 th,
@@ -420,15 +407,6 @@ th {
 
 #table2 {
     border-collapse: collapse;
-
-}
-
-
-#i2 {
-    float: left;
-    padding-left: 25px;
-    padding-top: 0px;
-    padding-right: 180px;
 }
 
 #beauty-pc h2 {
@@ -450,27 +428,11 @@ th {
     background-color: #016ABC;
     color: azure;
     font-size: 25px;
-
 }
 
 #table3 {
     border-collapse: collapse;
-
-
 }
-
-
-#i3 {
-    float: right;
-    padding-left: 0px;
-    padding-top: 0px;
-    padding-right: 25px;
-    padding-top: 75px;
-}
-
-
-
-
 
 @media screen and (max-width: 950px) {
     #menu {
@@ -490,10 +452,10 @@ th {
 
     #left-one-heading {
         width: 100%;
-        /* display: flex;
+        display: flex;
         align-items: center;
         justify-content: center;
-        flex-direction: column; */
+        flex-direction: column; 
         text-align: center;
     }
 
@@ -502,7 +464,7 @@ th {
         padding-bottom: 20px;
     }
 
-    #services>div {
+    #services > div {
         width: 100%;
         clear: both;
         height: 250px;
@@ -523,7 +485,7 @@ th {
     }
 }
 
-/* Responsive styles  add them to other media query or leave it here. */
+
 @media screen and (max-width: 950px) {
 
     /* Stack up menu items. */
@@ -577,7 +539,7 @@ th {
     }
 
     #nails-pc h2 {
-        text-align: center;
+        padding: 0;
     }
     
 
@@ -591,10 +553,6 @@ th {
         padding: 0;
     }
 
-    #i1 {
-        float: none;
-    }
-    
     table {
         margin-top: 25px;
         width: 100%;
