@@ -161,7 +161,6 @@ h3 {
     width: 100%;
     overflow: hidden;
     margin-top: -250px;
-
 }
 
 #services h2 {
@@ -220,7 +219,7 @@ h3 {
     padding-bottom: 20px;
     align-items: center;
     max-width: 500px;
-    margin-left: 400px;
+    margin-left: 25em;
 }
 
 #email {
@@ -357,6 +356,26 @@ footer {
     line-height: 40px;
 }
 
+.back-button {
+    background: blanchedalmond;
+    color: blue;
+    border-style: outset;
+    border-color: #0066A2;
+    height: 30px;
+    width: 100px;
+    font: bold 15px arial, sans-serif;
+    text-shadow: none;
+}
+
+.back-button:hover {
+    background: #016ABC;
+    color: #fff;
+    border: 1px solid #eee;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #eee;
+    text-shadow: none;
+}
+
 /*prices page*/
 
 #massage-pc h2 {
@@ -413,8 +432,7 @@ th {
     padding-top: 20px;
     padding-bottom: 20px;
     font-size: xx-large;
-    padding-right: 250px;
-    float: left;
+    padding-left: 250px;
 }
 
 th,
@@ -428,6 +446,7 @@ th {
     background-color: #016ABC;
     color: azure;
     font-size: 25px;
+
 }
 
 #table3 {
@@ -491,8 +510,9 @@ th {
     /* Stack up menu items. */
     #menu li {
         float: none;
-        display: block;
+        display: contents;
         text-align: left;
+        flex-direction: row-reverse;
     }
 
     #welcome {

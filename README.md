@@ -92,14 +92,13 @@ The link can be founde here - <a href="https://marta10111.github.io/HTML-CSS-Fir
 https://marta10111.github.io/HTML-CSS-First-Project/
 </a>
 
-**Content**
+## Content
 - The idea of a whole project was taken from my friend company Facebook page.
 https://www.facebook.com/GAIAMobileMassageandBeauty
 - Any code or problem solving issues was solved with the help of [Code Institute](https://learn.codeinstitute.net/login?next=/) and [w3school](https://www.w3schools.com/)
 
-**Media**
+## Media
 - The image in header,about us and service section was taken from [Pexels](https://www.pexels.com/)
 - The image for thank you page was taken only for educational purpose from [cutewallpaper](https://cutewallpaper.org/21/zen-wallpaper-hd/view-page-21.html)
 - Icon for About Us in Home page was taken from [Fontawsome](https://fontawesome.com/)
 - Instructions on how to upload images to README.md file was taken for educational purpose only from <a href="https://www.youtube.com/watch?v=nvPOUdz5PL4&t=146s&ab_channel=DanShahin>" rel="nofollow"> Specific YouTube Tutorial</a>
-
