@@ -94,7 +94,7 @@ https://marta10111.github.io/HTML-CSS-First-Project/
 
 **Content**
 - The idea of a whole project was taken from my friend company Facebook page.
-https://www.facebook.com/search/top?q=gaia%20mobile%20massage%20and%20beauty.
+https://www.facebook.com/GAIAMobileMassageandBeauty
 - Any code or problem solving issues was solved with the help of [Code Institute](https://learn.codeinstitute.net/login?next=/) and [w3school](https://www.w3schools.com/)
 
 **Media**
