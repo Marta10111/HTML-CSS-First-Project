@@ -2,7 +2,8 @@
 The GAIA   Mobile Massage and Beauty is a page for anyone who is looking for a massage, nails or beauty treatment in the comfort of your home.
 <p>Users of this website will be able to find information they need to know about GAIA Mobile Massage and Beauty: About the owner,  availble treatments, pricing, contact information and contact form.</p>
 
-  ![Am I responsive](https://user-images.githubusercontent.com/106401395/178548042-7376bfd7-e795-468b-920a-66137e857d51.jpg)
+  ![Am I responsive](https://user-images.githubusercontent.com/106401395/178721121-443737c7-df73-45c9-99c1-c0283236d32b.jpg)
+
 
 ## Features
 
