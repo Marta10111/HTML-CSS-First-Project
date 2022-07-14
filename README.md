@@ -27,7 +27,7 @@ The GAIA   Mobile Massage and Beauty is a page for anyone who is looking for a m
 
     - These section shows the user information what services are offered by company.
 
-  ![services](https://user-images.githubusercontent.com/106401395/178557499-c19cdf76-677d-4861-81c2-61c0281b0341.jpg)
+  ![services](https://user-images.githubusercontent.com/106401395/179055399-808f0f95-2063-489e-9124-6f5cc6127885.jpg)
   
 - **Prices section**
     - In these section are included all services, prices and treatment times offered.
